@@ -2,6 +2,16 @@
   "name": "nx-ng-mfe",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "dev:playo": "nx serve playo",
+    "dev:login": "nx serve login",
+    "dev:dashboard": "nx serve dashboard",
+    "dev:booking": "nx serve booking",
+    "build:playo": "nx build playo",
+    "build:login": "nx build login",
+    "build:dashboard": "nx build dashboard",
+    "build:booking": "nx build booking"
+  },
   "devDependencies": {
     "@angular-devkit/build-angular": "~22.0.4",
     "@angular-devkit/core": "~22.0.4",
