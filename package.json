@@ -56,7 +56,8 @@
     "@angular/platform-browser": "~22.0.4",
     "@angular/platform-browser-dynamic": "~22.0.4",
     "@angular/router": "~22.0.4",
-    "rxjs": "~7.8.0",
-    "@nx/angular": "^23.1.1"
+    "@nx/angular": "^23.1.1",
+    "express": "^5.2.1",
+    "rxjs": "~7.8.0"
   }
 }
